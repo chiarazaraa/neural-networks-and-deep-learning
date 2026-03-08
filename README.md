@@ -40,8 +40,8 @@ Two scenarios were tested:
 - fixed rotations of 90 degrees
 
 With limited training data, transfer learning outperformed training from scratch:
-- **30° rotation**: transfer learning reached about **95.69% accuracy**
-- **90° rotation**: transfer learning reached about **90.38% accuracy**
+- 30° rotation: transfer learning reached about **95.69% accuracy**
+- 90° rotation: transfer learning reached about **90.38% accuracy**
 
 ### 4. Autoencoders
 Two autoencoder architectures were trained to learn a 2D latent representation of MNIST digits.
@@ -64,10 +64,19 @@ The generated samples became progressively more structured during training, alth
 
 ---
 
-## Repository Contents
-- `notebook.ipynb`: main notebook with all experiments
-- `report.pdf`: final report
-- `README.md`: project description
+## Repository Structure
+
+deep-learning-mnist/
+│
+├── notebooks/
+│   ├── task1_mlp_vs_cnn.ipynb
+│   ├── task2_double_descent.ipynb
+│   ├── task3_transfer_learning.ipynb
+│   ├── task4.ipynb
+│   └── task5.ipynb
+│
+├── report.pdf
+└── README.md: project description
 
 ---
 
