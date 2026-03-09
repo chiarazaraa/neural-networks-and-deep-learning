@@ -62,10 +62,10 @@ The generated samples became progressively more structured during training, alth
 - Matplotlib
 - Jupyter Notebook
 
----
+
 
 ## Repository Structure
-
+---
 deep-learning-mnist/
 │
 ├── notebooks/
@@ -77,8 +77,8 @@ deep-learning-mnist/
 │
 ├── report.pdf
 └── README.md: project description
-
 ---
+
 
 ## Key Takeaways
 This project explores several core topics in deep learning:
