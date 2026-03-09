@@ -65,7 +65,8 @@ The generated samples became progressively more structured during training, alth
 
 
 ## Repository Structure
----
+
+```
 deep-learning-mnist/
 │
 ├── notebooks/
@@ -76,8 +77,8 @@ deep-learning-mnist/
 │   └── task5.ipynb
 │
 ├── report.pdf
-└── README.md: project description
----
+└── README.md
+```
 
 
 ## Key Takeaways
